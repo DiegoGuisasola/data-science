@@ -1,7 +1,7 @@
 # EDA y algoritmos de ML para la predicción de precios de propiedades inmobiliarias.
 
 <p align="center">
-  <img src="/properati/argentina/images/cantidad_por_regiones.png" />
+  <img src="/properati/argentina/images/cantidad_por_regiones.png" =250/>
 </p>
 
 ## Problema
