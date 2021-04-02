@@ -17,12 +17,9 @@ Flujo de trabajo:
 
 3. Visualize data.
 
-4. Modelling
+4. Modelling: Se implementan 3 modelos de ML y se mide cuál es el mejor: Regresión lineal, DecisionTreeRegressor y KNN.
 
 5. Evaluating model
 
-
-8. Se realiza un EDA.
-9. Se implementan 3 modelos de ML y se mide cuál es el mejor: Regresión lineal, DecisionTreeRegressor y KNN.
 
 El dataset puede ser descargado del siguiente enlace: https://drive.google.com/file/d/1ySMNCtPhlzhXBCTQsTAZX5zr0YfEDS4H/view?usp=sharing
